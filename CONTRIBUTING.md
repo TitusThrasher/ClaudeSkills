@@ -282,13 +282,10 @@ If you're customizing this as part of community work:
 
 When using or adapting this template:
 
-**Required:**
-- Credit original template creator (Andrew Thrasher / Titus Legal Design)
+**Appreciated:**
+- Credit original template creator (Andrew Thrasher / Titus Cosulting)
 - Link back to original template repository
 - Note what you changed/customized
-- Maintain the same license (CC BY-SA 4.0)
-
-**Appreciated:**
 - Share improvements back to the community
 - Note what worked well in your customization
 - Help others who customize for similar contexts
