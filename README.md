@@ -6,7 +6,7 @@
 
 > A customizable Claude AI skill template for systematic monitoring and documentation of immigration enforcement activity in your local area.
 
-**Created by:** [Andrew Thrasher](https://linkedin.com/in/andrewmthrasher) | [Titus Legal Design](https://tituslegaldesign.com)
+**Created by:** [Andrew Thrasher](https://linkedin.com/in/andrewmthrasher) | [Titus Consulting](https://tituslegaldesign.com)
 
 ---
 
@@ -71,7 +71,7 @@ This Claude skill provides two core capabilities for monitoring ICE and CBP enfo
 ✅ **Quality Focused** - Three-level verification system (Confirmed/Reported/Alleged)
 ✅ **Pattern Tracking** - Identifies trends in locations, timing, and tactics
 ✅ **Privacy First** - Guidelines for responsible documentation
-✅ **Automation Ready** - Includes Python helper scripts
+✅ **Automation Ready** - Includes Python helper scripts for image extraction and data validation
 ✅ **Time Efficient** - Daily monitoring in just 15 minutes
 
 ---
@@ -141,8 +141,8 @@ Run daily ICE monitoring for [CITY_NAME] - last 24 hours
 ```
 
 **Claude will:**
-1. Search 5 core news queries
-2. Check 3 priority news sites
+1. Search core news queries
+2. Check priority news sites
 3. Review latest social media
 4. Prioritize findings as High/Medium/Low
 5. Report what needs documentation
@@ -185,17 +185,17 @@ The skill documents 11 fields per incident:
 
 | Field | Type | Example |
 |-------|------|---------|
-| **Location** | Required | "Main St and 5th Ave" |
+| **Location** | Required | "26th and California" |
 | **Date** | Required | "10/13/2025" |
 | **Description** | Required | "[Source] confirmed federal agents..." |
-| **Map Address** | Required | "Main St & 5th Ave, Austin, TX 78701" |
+| **Map Address** | Required | "California and 26th Street, Chicago, IL 60623" |
 | Agencies Involved | Optional | "ICE" (or blank) |
 | Individuals Detained | Optional | "2" (or blank) |
 | Use of Force | Optional | "Pepper spray" (or blank) |
-| Neighborhood | Optional | "Downtown" |
+| Neighborhood | Optional | "Little Village" |
 | News Coverage | Optional | "https://news.com/article" |
 | Rapid Response Report | Optional | "https://instagram.com/post" |
-| Zip Code | Optional | "78701" |
+| Zip Code | Optional | "60623" |
 
 📚 **Full schema details:** [SKILL.md](SKILL.md)
 
@@ -301,7 +301,7 @@ No! Customization is mostly find-and-replace with local information. If you can 
 <details>
 <summary><strong>How much does this cost?</strong></summary>
 
-The template is free (MIT License). You'll need access to Claude, which has free and paid tiers. Daily monitoring typically uses minimal Claude credits.
+The template is free (MIT License). However, you'll need access to Claude, which has free and paid tiers, to use the Claude Skills functionality. Daily monitoring typically uses minimal Claude credits.
 </details>
 
 <details>
@@ -353,7 +353,7 @@ The template works with any combination of sources. Customize to emphasize news,
 
 - 💬 **Discussions:** [GitHub Discussions](https://github.com/TitusThrasher/ClaudeSkills/discussions)
 - 🐛 **Bug Reports:** [Create an issue](https://github.com/TitusThrasher/ClaudeSkills/issues/new/choose)
-- 📧 **Contact:** Via [LinkedIn](https://linkedin.com/in/andrewmthrasher) or [Titus Legal Design](https://tituslegaldesign.com)
+- 📧 **Contact:** Via [LinkedIn](https://linkedin.com/in/andrewmthrasher) or [Titus Consulting](https://tituslegaldesign.com)
 
 ### Community
 
@@ -386,7 +386,7 @@ Have ideas? [Open a feature request](https://github.com/TitusThrasher/ClaudeSkil
 ## Credits
 
 **Created by:** Andrew Thrasher
-**Organization:** Titus Legal Design
+**Organization:** Titus Consulting
 **Website:** [tituslegaldesign.com](https://tituslegaldesign.com)
 **LinkedIn:** [linkedin.com/in/andrewmthrasher](https://linkedin.com/in/andrewmthrasher)
 
@@ -419,7 +419,7 @@ This tool is designed to support community documentation, legal accountability, 
 ## Version
 
 **Current Version:** 1.0.0
-**Release Date:** October 27, 2025
+**Release Date:** October 30, 2025
 **Compatible With:** Claude Sonnet 4.5, Opus 4, Haiku 3.5
 
 See [CHANGELOG.md](CHANGELOG.md) for version history.
