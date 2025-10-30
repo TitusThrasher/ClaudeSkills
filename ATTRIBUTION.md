@@ -4,7 +4,7 @@
 
 **ICE/CBP Monitoring Template**
 **Created by:** Andrew Thrasher
-**Organization:** Titus Legal Design (tituslegaldesign.com)
+**Organization:** Titus Consulting (tituslegaldesign.com)
 **LinkedIn:** [linkedin.com/in/andrewmthrasher](https://linkedin.com/in/andrewmthrasher)
 **Version:** 1.0
 **Release Date:** October 2025
@@ -26,20 +26,20 @@ This template is provided under the MIT License, which means you are free to:
 
 **Minimal Attribution:**
 ```markdown
-Based on the ICE/CBP Monitoring Template by Andrew Thrasher (Titus Legal Design)
+Based on the ICE/CBP Monitoring Template by Andrew Thrasher (Titus Consulting)
 ```
 
 **Preferred Attribution:**
 ```markdown
 This monitoring system uses the ICE/CBP Monitoring Template created by
-Andrew Thrasher of Titus Legal Design (tituslegaldesign.com).
+Andrew Thrasher of Titus Consulting (tituslegaldesign.com).
 Template licensed under MIT License.
 ```
 
 **With Link:**
 ```markdown
 Powered by the [ICE/CBP Monitoring Template](https://github.com/[USERNAME]/ice-cbp-monitoring-template)
-by Andrew Thrasher / Titus Legal Design
+by Andrew Thrasher / Titus Consulting
 ```
 
 ### If You're Sharing Your Customization
@@ -51,7 +51,7 @@ When sharing your customized version with others:
 ## Credits
 
 **Original Template:** ICE/CBP Monitoring Template
-**Template Creator:** Andrew Thrasher, Titus Legal Design
+**Template Creator:** Andrew Thrasher, Titus Consulting
 **Template License:** MIT
 **Template URL:** [link if available]
 
@@ -64,7 +64,7 @@ When sharing your customized version with others:
 ```markdown
 ---
 Based on: ICE/CBP Monitoring Template v1.0
-Original: Andrew Thrasher / Titus Legal Design
+Original: Andrew Thrasher / Titus Consulting
 Customized: [Your modifications]
 ---
 ```
@@ -115,50 +115,6 @@ If you make improvements that could benefit others:
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) for details.
 
-## Citation Guidelines
-
-### For Academic or Research Use:
-
-**APA Style:**
-```
-Thrasher, A. (2025). ICE/CBP Monitoring Template (Version 1.0) [Computer software].
-Titus Legal Design. https://tituslegaldesign.com
-```
-
-**MLA Style:**
-```
-Thrasher, Andrew. ICE/CBP Monitoring Template. Version 1.0, Titus Legal Design, 2025.
-```
-
-**Chicago Style:**
-```
-Thrasher, Andrew. 2025. ICE/CBP Monitoring Template. Version 1.0. Titus Legal Design.
-https://tituslegaldesign.com.
-```
-
-### For Media or Publications:
-
-**News Articles:**
-```
-This monitoring system is based on a template created by Andrew Thrasher,
-a legal technologist at Titus Legal Design.
-```
-
-**Reports:**
-```
-Data collected using the ICE/CBP Monitoring Template (Thrasher, 2025),
-customized for [Your Location].
-```
-
-## Special Circumstances
-
-### If You're Working With Sensitive Communities:
-
-You may choose to:
-- Use minimal or no attribution if attribution creates safety concerns
-- Brand entirely under your organization's name
-- Discuss with your community what level of attribution is appropriate
-
 **Community safety comes first.** The MIT License gives you full freedom to make these decisions.
 
 ### If You're Providing Professional Services:
@@ -200,8 +156,8 @@ A: Yes, legally you can. We hope you'll keep some attribution to help others fin
 **Q: Can I claim I created this template?**
 A: That would be misleading and against community norms, even if not illegal. Please be honest about the origins while highlighting your customizations.
 
-**Q: Can I use the Titus Legal Design name or logo?**
-A: No, the MIT License does not grant trademark rights. You may reference Titus Legal Design in attribution but cannot imply endorsement or use our branding.
+**Q: Can I use the Titus Consulting name or logo?**
+A: No, the MIT License does not grant trademark rights. You may reference Titus Consulting in attribution but cannot imply endorsement or use our branding.
 
 **Q: What if my organization requires different licensing?**
 A: You're free to relicense your modified version, but please note the original template's MIT License for compliance.
