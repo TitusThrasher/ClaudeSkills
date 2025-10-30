@@ -78,10 +78,10 @@ List 3-5 organizations:
 
 #### Social Media Presence
 Identify:
-- [ ] **Local Rapid Response Networks:** (Instagram, Twitter/X handles)
+- [ ] **Local Rapid Response Networks:** (Instagram, TikTok, Twitter/X handles)
   - @_______________
   - @_______________
-- [ ] **Community Alert Pages:** (Facebook groups, Telegram channels)
+- [ ] **Community Alert Pages:** (Facebook groups, Telegram/WhatsApp channels)
   - _______________
 
 #### Legal Resources
@@ -90,7 +90,7 @@ Identify:
 - [ ] **Local Legal Aid Organizations:** _______________
 
 #### Current Context (Optional but Helpful)
-- [ ] **Is there a named operation?** (e.g., "Operation Lone Star")
+- [ ] **Is there a named operation?** (e.g., "Operation Jumping Frogs")
 - [ ] **Start date of increased activity:** __________
 - [ ] **Any unique local factors?** (border proximity, sanctuary policies, etc.)
 
@@ -105,11 +105,11 @@ Identify:
 
 | Placeholder | Replace With | Example |
 |-------------|--------------|---------|
-| `[CITY_NAME]` | Your city name | "Austin" |
-| `[STATE_NAME]` | Your state name | "Texas" |
-| `[METRO_AREA]` | Metropolitan area name | "Greater Austin" |
-| `[OPERATION_NAME]` | Named operation (if any) | "Operation Lone Star" |
-| `[START_DATE]` | When monitoring began | "March 2025" |
+| `[CITY_NAME]` | Your city name | "Portland" |
+| `[STATE_NAME]` | Your state name | "Oregon" |
+| `[METRO_AREA]` | Metropolitan area name | "Portland Metropolitan Area" |
+| `[OPERATION_NAME]` | Named operation (if any) | "Operation Jumping Frogs" |
+| `[START_DATE]` | When monitoring began | "October 2025" |
 
 **Update these sections:**
 
@@ -137,16 +137,16 @@ Identify:
 **Example Search/Replace:**
 ```
 Find: "Chicago"
-Replace: "Phoenix"
+Replace: "Portland"
 
 Find: "Illinois"
-Replace: "Arizona"
+Replace: "Oregon"
 
 Find: "Operation Midway Blitz"
-Replace: "Desert Lightning"
+Replace: "Jumping Frogs"
 
 Find: "Back of the Yards"
-Replace: "Maryvale"
+Replace: "Bridgeton"
 ```
 
 #### File: `README.md` (User-facing documentation)
@@ -347,20 +347,6 @@ Adjust based on:
 - Document which rapid response networks use which languages
 - Consider multiple language versions of rapid response guidelines
 
-### Border vs. Interior Enforcement
-
-**Border Areas (TX, AZ, NM, CA):**
-- Add CBP Border Patrol checkpoint monitoring
-- Include port of entry documentation
-- Track border wall construction impacts
-- Document desert rescue operations
-
-**Interior Locations:**
-- Focus more on ICE ERO (Enforcement and Removal Operations)
-- Track courthouse, workplace, and home raids
-- Monitor collaboration with local law enforcement
-- Document 287(g) program impacts
-
 ### Special Operational Contexts
 
 **Sanctuary City:**
@@ -403,7 +389,7 @@ Replace remaining instances.
 ### "My rapid response networks don't use Instagram"
 
 **Solution:** Update the Instagram-specific sections:
-1. Change "Instagram alerts" to your platform (Facebook, Telegram, etc.)
+1. Change "Instagram alerts" to your platforms (Facebook, Telegram, etc.)
 2. Update image extraction guidelines to match your platform's format
 3. Adjust URL format examples
 
@@ -461,8 +447,7 @@ Before uploading, verify you've customized:
 
 ### Resources
 - **Claude Prompting Guide:** docs.anthropic.com/claude/docs/prompt-engineering
-- **MCP Documentation:** (if using Claude Code)
-- **Original Template Issues:** Consider creating a GitHub repo for community support
+- **Anthropic's Claude Skills Guide:** https://github.com/anthropics/skills
 
 ### Common Questions
 
@@ -497,8 +482,8 @@ A: Yes! This skill can complement:
 
 **Original Template Version:** 1.0  
 **Template Created:** October 2025  
-**Original Creator:** Andrew Thrasher, Titus Legal Design  
-**Template License:** [Your choice - consider CC-BY-SA-4.0 for open sharing]  
+**Original Creator:** Andrew Thrasher, Titus Consulting 
+**Template License:** MIT (see LICENSE)  
 **Compatible With:** Claude Sonnet 4.5, Opus 4, Haiku 3.5
 
 ---
@@ -521,7 +506,7 @@ Once customized:
 Consider consulting with:
 - Local immigrant rights organizations  
 - Community documentation projects
-- Tech-for-good consultants (like Titus Legal Design)
+- Tech-for-good consultants (like Titus Consulting!)
 - Other users who have customized this template
 
 **Good luck, and thank you for doing this important work.**
