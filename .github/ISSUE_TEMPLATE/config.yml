@@ -1,0 +1,11 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Community Discussions
+    url: https://github.com/TitusThrasher/ClaudeSkills/discussions
+    about: Ask questions, share tips, and connect with other users
+  - name: Documentation
+    url: https://github.com/TitusThrasher/ClaudeSkills/blob/main/README.md
+    about: Read the full documentation
+  - name: Customization Guide
+    url: https://github.com/TitusThrasher/ClaudeSkills/blob/main/CUSTOMIZATION_GUIDE.md
+    about: Step-by-step customization instructions
