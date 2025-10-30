@@ -5,17 +5,14 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [Unreleased]
+
+## [1.0.0] - 2025-10-30
 
 ### Added
 - Standard GitHub community files (CONTRIBUTING.md, CODE_OF_CONDUCT.md, LICENSE)
 - GitHub issue and pull request templates
 - ATTRIBUTION.md with clear credit guidelines
 - Visual improvements to documentation
-
-## [1.0.0] - 2025-10-27
-
-### Added
 - Initial template release
 - Complete skill documentation (SKILL.md)
 - User-facing documentation (README.md)
@@ -35,7 +32,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Template Features
 - Customizable for any US city/region
-- Support for named operations (e.g., "Operation Lone Star")
+- Support for named operations (e.g., "Operation Midway Blitz")
 - Neighborhood-level tracking
 - Use of force documentation
 - Cross-source verification
@@ -110,8 +107,8 @@ These are under consideration for future releases:
 
 ### Potential 1.1.0 Features
 - [ ] Additional language support beyond English/Spanish
-- [ ] Integration with mapping tools (Google Maps, OpenStreetMap)
-- [ ] Court filing automated monitoring scripts
+- [ ] Integration with mapping tools (Google Maps, ArcGIS)
+- [ ] Court filing automated monitoring scripts (Free Law Project)
 - [ ] Data export formats (JSON, XML, CSV templates)
 - [ ] Visualization guidelines for pattern analysis
 - [ ] Multi-city coordination templates
@@ -124,46 +121,10 @@ These are under consideration for future releases:
 - [ ] Collaborative documentation guidelines
 
 ### Potential 2.0.0 Features
-- [ ] Complete restructure for Claude Projects API
 - [ ] Database integration templates
 - [ ] Advanced analytics capabilities
 - [ ] Multi-language interface support
 - [ ] Framework for cross-city pattern analysis
-
----
-
-## Contributing to Changelog
-
-When contributing, please update this file with your changes:
-
-1. Add changes to **[Unreleased]** section
-2. Use appropriate category (Added, Changed, Fixed, etc.)
-3. Write clear, user-facing descriptions
-4. Link to issues/PRs when applicable
-5. Note breaking changes clearly
-
-**Example entry:**
-```markdown
-### Added
-- Support for Telegram channel monitoring in addition to Instagram (#42)
-- New search queries for courthouse enforcement (#45)
-
-### Fixed
-- Date parsing for Canadian date formats (#38)
-```
-
----
-
-## Release Process
-
-For maintainers releasing new versions:
-
-1. Update version number in all files
-2. Move [Unreleased] changes to new version section
-3. Add release date
-4. Create git tag: `git tag -a v1.1.0 -m "Release 1.1.0"`
-5. Update README badges
-6. Announce release with migration guide if needed
 
 ---
 
