@@ -65,13 +65,13 @@ This Claude skill provides two core capabilities for monitoring ICE and CBP enfo
 
 ## Key Features
 
-✅ **Customizable** - Adapt for any US city/region in 30-60 minutes
-✅ **Multi-Source** - Monitors news, social media, courts, and community organizations
-✅ **Bilingual** - Processes content in multiple languages
-✅ **Quality Focused** - Three-level verification system (Confirmed/Reported/Alleged)
-✅ **Pattern Tracking** - Identifies trends in locations, timing, and tactics
-✅ **Privacy First** - Guidelines for responsible documentation
-✅ **Automation Ready** - Includes Python helper scripts for image extraction and data validation
+✅ **Customizable** - Adapt for any US city/region in 30-60 minutes </br>
+✅ **Multi-Source** - Monitors news, social media, courts, and community organizations </br>
+✅ **Bilingual** - Processes content in multiple languages </br>
+✅ **Quality Focused** - Three-level verification system (Confirmed/Reported/Alleged) </br>
+✅ **Pattern Tracking** - Identifies trends in locations, timing, and tactics </br>
+✅ **Privacy First** - Guidelines for responsible documentation </br>
+✅ **Automation Ready** - Includes Python helper scripts for image extraction and data validation </br>
 ✅ **Time Efficient** - Daily monitoring in just 15 minutes
 
 ---
